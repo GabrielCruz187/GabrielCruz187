@@ -29,3 +29,4 @@
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+https://github-readme-stats.vercel.app/api?username=GabrielCruz187&show_icons=true&theme=dracula
